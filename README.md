@@ -1,5 +1,5 @@
 # 2025_CDML_Symposium
-===================================================
+
 ![image](https://github.com/user-attachments/assets/1c3d8c10-4cf1-47be-b77b-10682b5db714)
 
 # Tittle: Effects of Divalent Cations on Structure and Dynamics of Water Confined Between Lipid Bilayers
