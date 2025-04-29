@@ -4,6 +4,8 @@
 
 ## [Presentation video for brief introduction](https://youtu.be/Dk5AKveeWnc)
 
+## *Supporting figures*: [link](https://github.com/thereexist/2025_CDML_Symposium/blob/main/SI%20figure.pdf)
+
 # Tittle: Effects of Divalent Cations on Structure and Dynamics of Water Confined Between Lipid Bilayers
 
 ## Abstract
@@ -29,4 +31,4 @@ Membrane-water interfaces host various chemical reactions that are vital for cel
 
 [9] S Feng, J. Chem. Theory Comput., 19, 2161-2185 (2023)
 
-*Supporting figures*: [link](https://github.com/thereexist/2025_CDML_Symposium/blob/main/SI%20figure.pdf)
+
