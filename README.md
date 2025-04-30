@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/1c3d8c10-4cf1-47be-b77b-10682b5db714)
 
-## [Presentation video for brief introduction](https://youtu.be/Dk5AKveeWnc)
+## [Presentation video for brief introduction (click)](https://youtu.be/Dk5AKveeWnc)
 
 ## *Supporting figures*: [link](https://github.com/thereexist/2025_CDML_Symposium/blob/main/SI%20figure.pdf)
 
