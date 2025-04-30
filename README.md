@@ -1,4 +1,4 @@
-# 2025_CDML_Symposium
+# [2025 GSRC Symposium: Chemical Dynamics in Materials and Living Systems (CDML)](https://www.cdml.cau.ac.kr/home)
 
 ![image](https://github.com/user-attachments/assets/1c3d8c10-4cf1-47be-b77b-10682b5db714)
 
